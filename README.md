@@ -1,1 +1,1 @@
-# Xposed Installer 7- All Updates 
+# Xposed Installer Android 7- All Updates 
