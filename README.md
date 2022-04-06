@@ -1,2 +1,1 @@
-# Android-P-XposedInstaller
-Android P XposedInstaller
+#Xposed Installer
