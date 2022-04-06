@@ -8,7 +8,7 @@
 
 # Install
 
-  1. Install Magisk v21+.
+  1. Install Magisk v21+
   2. Install Riru v19+ from Magisk repo.
   3. Download and install EdXposed in Magisk Manager or recovery.
   4. Install EdXposed Manager.
