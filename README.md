@@ -1,4 +1,4 @@
-# Android 7- All Updates 
+# Android N - All Updates 
 
 # Introduction
  A Riru module trying to provide an ART hooking framework (initially for Android Pie) which delivers consistent APIs with the OG Xposed, leveraging YAHFA (or SandHook) hooking framework, supports Android 8.0 ~ 11.
